@@ -135,5 +135,3 @@ entry4.grid(row=6,column=1)
 button2.grid(row=7,column=0,pady = 15)
 
 root.mainloop()
-
-#testing for git purposes
